@@ -4,22 +4,36 @@ A script that uses a multi-regression model to predict future weather of fifteen
 
 Cities include:
 
-Anchorage
-Houston
-Washington DC
-Seattle
-Minneapolis
-Detroit
-San Francisco
-Chicago
-Oklahoma City
-San Diego
-Nashville
-New York
-Denver
-Miami
-Salt Lake City
+* Anchorage
+* Houston
+* Washington DC
+* Seattle
+* Minneapolis
+* Detroit
+* San Francisco
+* Chicago
+* Oklahoma City
+* San Diego
+* Nashville
+* New York
+* Denver
+* Miami
+* Salt Lake City
 
-Predictor variables: tmax, tmean, tmin, hummax, hummean, hummin, windmax, windmean, precip
+Predictor variables:
 
-Response variables: maximum temperature, minimum temperature, and millimeters of precipitation
+* tmax
+* tmean
+* tmin
+* hummax
+* hummean
+* hummin
+* windmax
+* windmean
+* precip
+
+Response variables:
+
+* maximum temperature
+* minimum temperature
+* millimeters of precipitation
